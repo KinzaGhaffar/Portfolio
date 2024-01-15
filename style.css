@@ -1032,13 +1032,14 @@ section{
 /* Project styling Project styling Project styling Project styling Project styling */
 #portfolio {
     text-align: center;
-    padding: 30px 0;
-    background: #f0f3fd;
+    padding: 40px 0;
+    background: #d4dfde;
 }
 
 .pro-subtitle{
     color: #333;
     text-align: center;
+    margin-bottom: 3%;
 }
 
 .project-container {
@@ -1246,7 +1247,6 @@ form input, form textarea{
     font-size: 14px;
     border-radius: 6px;
 }
-
 
 .copyright{
     width: 100%;
